@@ -1,5 +1,7 @@
 # BRDG Innovation Challenge - Team 1 - $1750 winner
 
+Developed by Helen, Adrian, Nancy, Arian, Steven, and Jonathan for BRDG Innovation Challenge 2025
+
 Our topics for the BRDG Innovation Challenge 2025 was on urban green integration, specifically how to sustain greenery in urban landscapes. Our product was Xylobench, a bench model that is able to maintain green life through an automated irrigation system.
 
 ## How does this system work?
